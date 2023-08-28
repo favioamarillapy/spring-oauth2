@@ -1,4 +1,4 @@
-package com.py.oauth2.authorization.service;
+package com.py.oauth2.authorization.security;
 
 import com.py.oauth2.authorization.repository.AppUserRepository;
 import lombok.RequiredArgsConstructor;
